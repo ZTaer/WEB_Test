@@ -62,7 +62,7 @@ div,body,a,ul,li,img,p,span{
 		}
 		#main2_{
 			height:520px;
-			background:url(fu1_main2_bg.png) center center no-repeat ;
+			background:url(fu1_main2_bg.jpg) center center no-repeat ;
 		}
 		#main2{
 			height:520px;
@@ -163,11 +163,11 @@ div,body,a,ul,li,img,p,span{
 		/***MAIN1****/
 		#main1_left{
 			float:left;
-			background:url(fu1_main1_left.png) center center no-repeat;
+			background:url(fu1_main1_left.jpg) center center no-repeat;
 		}
 		#main1_right{
 			float:right;
-			background:url(fu1_main1_right.png) center center no-repeat;
+			background:url(fu1_main1_right.jpg) center center no-repeat;
 		}
 		.main1_divfont{
 			width:575px;
